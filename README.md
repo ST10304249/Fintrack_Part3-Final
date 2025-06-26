@@ -8,7 +8,7 @@
 
 
 ## GitHub Repository:
-🔗  PHILADELPHIA Nkuna (st10304249) -https://github.com/ST10304249/Fintrack_part3_poe.git 
+🔗 https://github.com/ST10304249/Fintrack_Part3-Final.git
 
 
 
@@ -98,7 +98,7 @@ screenshots/budget_progress.png – Budget Progress Indicator
 screenshots/bank_card_feature.png – Bank Card UI
 
 ##🔗 Demo Video
-🎥 YouTube Link: https://youtu.be/Z6eU78hAav0?si=ZF6Hvw5R9eMjpVHO
+🎥 https://youtu.be/FsGyUZDJOl8
 
 canva link: https://www.canva.com/design/DAGnOugsKEE/SHzyLr-Yh3gOSrh3XabMDw/edit?utm_content=DAGnOugsKEE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 Includes:
